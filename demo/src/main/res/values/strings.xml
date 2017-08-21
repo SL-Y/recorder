@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LingoRecorder</string>
+    <string name="check_permission_title">Permission check</string>
+    <string name="check_permission_content">Need to provide recording and storage permissions.</string>
+    <string name="check_permission_fail">Permission fetch failed</string>
+    <string name="confirm">OK</string>
+
+
+    <string name="upload">上传</string>
+    <string name="cancel_upload">取消上传</string>
+    <string name="if_edit_video">是否编辑视频</string>
+    <string name="dlg_yes">是</string>
+    <string name="dlg_no">否</string>
+
+    <string name="buffering">Buffering</string>
+    <string name="live_streaming">直播</string>
+    <string name="playback">点播</string>
+    <string name="play_setting">播放设置</string>
+    <string name="decode_config">解码配置</string>
+    <string name="sw_decode">软解</string>
+    <string name="hw_decode">硬解</string>
+    <string name="auto_decode">自动</string>
+    <string name="pls_choose_activity">[请选择测试 Activity]:</string>
+    <string name="pls_choose_videopath">[输入或选择视频地址]:</string>
+    <string name="pls_choose_setting">[请选择播放配置]:</string>
+    <string name="input_video_path">手动输入测试视频地址</string>
+    <string name="btn_local_file">本地文件</string>
+    <string name="btn_play_setting">播放配置</string>
+    <string name="btn_click_play">点击播放</string>
+
+</resources>
